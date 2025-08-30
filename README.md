@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @EPSILON996
+# 👋 Hi, I’m Mayur Ubarhande
 
 - 👀 I’m interested in building algorithmic trading programs and market trend predictors.  
 - 🌱 I’m currently learning Python and data analytics.  
